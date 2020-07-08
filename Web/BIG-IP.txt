@@ -23,6 +23,12 @@ authzdefaults.jsp
 aws
 authproperties.jsp
 bea_weblogic
+bigip.conf
+bigip.conf.bak
+bigip.license
+bigip.license.bak
+bigip_user.conf
+bigip_user.conf.bak
 bigpipe.jsp
 cache
 citrix_presentation_server
@@ -35,6 +41,12 @@ clone.jsp
 cluster
 common
 commonconfig
+config
+config/bigip.conf
+config/bigip.conf.bak
+config/bigip.license
+config/bigip_user.conf
+config/bigip_user.conf.bak
 configsync.jsp
 config_change.jsp
 copy.jsp
@@ -61,7 +73,7 @@ delivery
 devicegroups
 device_trust
 devmgmt
-directory_list.jsp
+directoryList.jsp
 disk_management
 dlv_anchor
 dns
@@ -278,6 +290,7 @@ tcp
 tftp
 tmshCmd.jsp
 tmui
+tmui/locallb/workspace/directoryList.jsp
 tmui/locallb/workspace/fileRead.jsp
 tmui/locallb/workspace/fileSave.jsp
 tmui/locallb/workspace/tmshCmd.jsp
