@@ -1,2 +1,2 @@
 # WordLists
-A collection of wordlists for use in fuzzing/asset discovery
+A collection of wordlists for use in brute-forcing, fuzzing, and asset discovery
